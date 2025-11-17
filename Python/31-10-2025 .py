@@ -14,4 +14,4 @@ def mod(a,b):
 while True:
     print("*"*30) 
     print("Welcome to the Infinite Loop Program!")
-    
+    break
